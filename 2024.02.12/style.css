@@ -1,0 +1,28 @@
+
+body{
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+p{
+    color: crimson;
+}
+
+.note {
+    font-size: 20px;
+}
+
+li[value="3"] {
+    color: green;
+}
+
+li[value="4"] {
+    color: blue;
+}
+
+li[value="2"] {
+    margin-top: -20px;
+}
